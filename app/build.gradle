@@ -48,5 +48,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     implementation "io.insert-koin:koin-android:3.1.2"
+    testImplementation "io.insert-koin:koin-test-junit4:3.1.2"
     //implementation "io.insert-koin:koin-android-viewmodel:3.1.2"
 }
